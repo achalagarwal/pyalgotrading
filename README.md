@@ -26,7 +26,7 @@ Official Python Package for Algorithmic Trading APIs powered by AlgoBulls!
     - Order History Log for each order with state transitions & timestamps
 - Plot Candlestick charts using [plotly.py](https://github.com/plotly/plotly.py)
     
-Backtesting, Paper Trading and Real Trading can be performed on the same strategy code base!
+Backtesting, Paper Trading and Real Trading (across multiple brokers) can be performed on the same strategy code base!
 
 
 ### Documentation
